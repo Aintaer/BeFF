@@ -7,8 +7,7 @@
   "trailing": true,
   "newcap": true,
 
-  "maxcomplexity": 8,
-  "maxstatements": 20,
+  "maxcomplexity": 10,
 
   "boss": true,
   "browser": true,
